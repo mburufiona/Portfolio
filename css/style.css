@@ -1,0 +1,109 @@
+nav {
+    display: flex;
+    justify-content: end;
+    padding: auto;
+}
+button {
+    padding: 14px 18px;
+    border-radius: 8px;
+    transition-duration: 0.5s;
+    background-color: rgb(255, 0, 64);
+    
+}
+button:hover {
+    background-color: aqua;
+}
+.logo {
+    width: 150px;
+    height: 100px;
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: -2%;
+}
+h1 {
+    color: aqua;
+    font-family: "Dancing Script", cursive;
+    text-align:start;
+}
+body {
+    background-color: black;
+}
+h2 {
+    color: rgb(255, 0, 64);
+    text-align: left;
+}
+h3 {
+    color: aqua;
+    text-align:center;
+    font-size: x-large;
+
+}
+p {
+    color: rgb(255, 0, 64);
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-size: xx-large;
+}
+.fa-brands:hover {
+   background-color:  aqua;
+}
+.fa-brands {
+    color: rgb(255, 0, 64);
+    padding: 12px 14px;
+    
+}
+.icons {
+    display: flex;
+    justify-content: start;
+    align-items: baseline;
+}
+h4 {
+    color: aqua;
+    font-size: xx-large;
+}
+h5 {
+    color: aqua;
+    font-size: xx-large;
+    text-align: center;
+}
+.container1{
+    color: rgb(255, 0, 64);
+    
+}
+ol li{
+    display: flex;
+    justify-content:center;
+    font-size: 70px;
+    font-family: "Dancing Script", cursive;;
+}
+h6{
+    color: aqua;
+    font-size: larger;
+}
+span{
+    color: aqua;
+    font-size: 70px;
+}
+.programming{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.books{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sketching{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+
